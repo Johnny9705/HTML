@@ -36,10 +36,27 @@ body{
 
 }
 .fondo3{
-    background:url('./assets/images\ \(1\).jfif');
+    background:url('./assets/13603475-nueva-york-en-la-noche-con-tono-azul.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     
 
+}
+.textContainer{
+    color: white ;
+    font-size: 12vw;
+    font-weight: bold;
+    width: 96%;
+    height: 100%;
+    display:flex;
+    align-items: center;
+    padding:2%;
+    
+  
+}
+.textContent{
+    width: 100%;
+    text-align: center;
+  
 }
