@@ -14,7 +14,11 @@
         </div>
     </div>
 
-    <div class="articleContainer fondo2"></div>
+    <div class="articleContainer fondo2 textImageBackground">
+        <div class="textContainer">
+            <span class="textContent">JOHNNY</span>
+        </div>
+    </div>
 
     <div class="articleContainer fondo3"></div>
     
