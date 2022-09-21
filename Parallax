@@ -8,7 +8,11 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <div class="articleContainer fondo1"></div>
+    <div class="articleContainer fondo1">
+        <div class="textContainer">
+            <span class="textContent">Hola mundo programación web</span>
+        </div>
+    </div>
 
     <div class="articleContainer fondo2"></div>
 
